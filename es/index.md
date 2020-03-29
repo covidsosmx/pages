@@ -10,7 +10,8 @@ title: COVIDSOS
 
 México y el mundo enfrentan una enorme escasez de equipamiento médico para
  combatir la enfermedad COVID-19.
-
+ 
+[Ver más](./index.md)
 
 </simple-hero>
 
@@ -19,6 +20,8 @@ México y el mundo enfrentan una enorme escasez de equipamiento médico para
 COVIDSOS es un repositorio open source construído para organizar y coordinar 
 los esfuerzos de las personas que desean contribuir con ayuda de múltiples
  maneras durante los efectos de la pandemia causada por el coronavirus.
+ 
+[LKMX](https://www.lkmx.io/)
 
 </text-banner>
 
