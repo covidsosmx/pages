@@ -11,7 +11,7 @@ title: COVIDSOS
 México y el mundo enfrentan una enorme escasez de equipamiento médico para
  combatir la enfermedad COVID-19.
  
-[Ver más](./index.md)
+[Ver más](#¿cómo-ayudar)
 
 </simple-hero>
 
@@ -21,8 +21,6 @@ COVIDSOS es un repositorio open source construído para organizar y coordinar
 los esfuerzos de las personas que desean contribuir con ayuda de múltiples
  maneras durante los efectos de la pandemia causada por el coronavirus.
  
-[LKMX](https://www.lkmx.io/)
-
 </text-banner>
 
 
@@ -30,6 +28,13 @@ los esfuerzos de las personas que desean contribuir con ayuda de múltiples
 
 ## ¿Cómo ayudar?
 
+</slim-column>
+
+
+
+
+
+<simple-card>
 
 ![Sugiriendo](../img/suggesting.svg)
 
@@ -37,7 +42,14 @@ los esfuerzos de las personas que desean contribuir con ayuda de múltiples
 
 Identifica y sugiere instrucciones o planos
 
+</simple-card>
 
+
+
+
+
+
+<simple-card>
 
 ![Escribiendo](../img/writing.svg)
 
@@ -45,8 +57,13 @@ Identifica y sugiere instrucciones o planos
 
 Regístrate, genera contenido y envíalo a revisión
 
+</simple-card>
 
 
+
+
+
+<simple-card>
 
 ![Colaborando](../img/collaborating.svg)
 
@@ -54,9 +71,12 @@ Regístrate, genera contenido y envíalo a revisión
 
 Consulta el repositorio y colabora eligiendo las mejores entradas
 
+</simple-card>
 
 
 
+
+<simple-card>
 
 ![Revisando](../img/reviewing.svg)
 
@@ -64,8 +84,11 @@ Consulta el repositorio y colabora eligiendo las mejores entradas
 
 Necesitamos de expertos que nos ayuden a identificar y corregir problemas antes de aprobarlos.
 
+</simple-card>
 
 
+
+<simple-card>
 
 ![Certificando](../img/certifying.svg)
 
@@ -73,9 +96,12 @@ Necesitamos de expertos que nos ayuden a identificar y corregir problemas antes 
 
 Requerimos de instituciones que certifiquen la efectividad del equipo a construir
 
+</simple-card>
 
 
 
+
+<simple-card>
 
 ![Traduciendo](../img/translating.svg)
 
@@ -83,6 +109,11 @@ Requerimos de instituciones que certifiquen la efectividad del equipo a construi
 
 COVIDSOS soporta cualquier idioma del mundo.
 
+</simple-card>
+
+
+
+<simple-card>
 
 ![Sugiriendo](../img/making.svg)
 
@@ -90,4 +121,5 @@ COVIDSOS soporta cualquier idioma del mundo.
 
 Se requieren makers que puedan construir los equipos y donarlos.
 
-</slim-column>
+</simple-card>
+
