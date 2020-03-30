@@ -20,7 +20,7 @@ COVIDSOS es un **[Repositorio Abierto](https://github.com/covidsos/covidsos)** y
 <covidsos-repo-link>Ver repositorio</covidsos-repo-link>
 
 Cualquier persona con una cuenta en [Github](https://github.com/) puede
- [registrarse](/connect) y ayudar.  
+ [registrarse](/connect) y colaborar.  
 
 </section>
 
