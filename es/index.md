@@ -17,10 +17,12 @@ COVIDSOS es un **[Repositorio Abierto](https://github.com/covidsos/covidsos)** y
  Management System Global** que busca organizar la inteligencia colectiva y 
  apoyar a todo aquel al frente de esta lucha.
 
+<covidsos-repo-link>Ver repositorio</covidsos-repo-link>
+
 Cualquier persona con una cuenta en [Github](https://github.com/) puede
  [registrarse](/connect) y ayudar.  
 
-</section>  
+</section>
 
 </simple-hero>
 
@@ -53,7 +55,7 @@ Hemos creado una metodología que permite a todos
 Se necesitan personas que sepan identificar material de calidad y nos lo
  sugieran para revisarlo.
 
-[Saber más](/es/como-ayudar/sugerir)
+[Conocer más](/es/como-ayudar/sugerir)
 
 </simple-card>
 
@@ -71,7 +73,7 @@ Se necesitan personas que sepan identificar material de calidad y nos lo
 Se requieren personas que conozcan markdown y tengan atención al detalle para
  completar los planos.
  
-[Saber más](/es/como-ayudar/sugerir)
+[Conocer más](/es/como-ayudar/redactar)
 
 </simple-card>
 
@@ -90,7 +92,7 @@ Se requieren personas que conozcan markdown y tengan atención al detalle para
 Se necesitan expertos en muchísimas áreas para revisar los planos antes de
  dar marcha a producción.
 
-[Saber más](/es/como-ayudar/sugerir)
+[Conocer más](/es/como-ayudar/revisar)
 
 </simple-card>
 
@@ -105,7 +107,7 @@ Se necesitan expertos en muchísimas áreas para revisar los planos antes de
 Se requieren de instituciones que certifiquen que el equipamiento médico
  cumple con los estándares mínimos.
 
-[Saber más](/es/como-ayudar/sugerir)
+[Conocer más](/es/como-ayudar/certificar)
 
 </simple-card>
 
@@ -121,26 +123,9 @@ Se requieren de instituciones que certifiquen que el equipamiento médico
 Se requieren makers que se mantengan preparados y estén listos para el
  banderazo de salida.
 
-[Saber más](/es/como-ayudar/sugerir)
+[Saber más](/es/como-ayudar/construir)
 
 </simple-card>
-
-
-
-<simple-card>
-
-![Traduciendo](../img/translating.svg)
-
-### Traducir
-
-...COVIDSOS soporta cualquier idioma del mundo...
-
-[Saber más](/es/como-ayudar/sugerir)
-
-</simple-card>
-
-
-
 
 
 <simple-card>
@@ -151,9 +136,26 @@ Se requieren makers que se mantengan preparados y estén listos para el
 
 ...Consulta el repositorio y colabora eligiendo las mejores entradas...
 
-[Saber más](/es/como-ayudar/sugerir)
+[Saber más](/es/como-ayudar/preguntar)
 
 </simple-card>
+
+
+<simple-card>
+
+![Traduciendo](../img/translating.svg)
+
+### Traducir
+
+...COVIDSOS soporta cualquier idioma del mundo...
+
+[Saber más](/es/como-ayudar/traducir)
+
+</simple-card>
+
+
+
+
 
 
 
