@@ -13,7 +13,7 @@ title: COVIDSOS
 México y el mundo enfrentan una enorme **escasez de equipamiento médico** para
  combatir la pandemia COVID-19 causada por el coronavirus.
  
-COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
+COVIDSOS es un **[Repositorio Abierto](https://github.com/covidsos/covidsos)** y un **<strike>Content</strike> Help
  Management System Global** que busca organizar la inteligencia colectiva y 
  apoyar a todo aquel al frente de esta lucha.
 

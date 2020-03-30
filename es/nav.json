@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "key":  "como-ayudar",
+      "name": "¿Cómo ayudar?",
+      "link": "/"
+    },
+    {
+      "key":  "equipo-medico",
+      "name": "Equipo Médico",
+      "link": "/es/equipo-medico"
+    },
+    {
+      "key":  "informacion",
+      "name": "Información",
+      "link": "/es/tecnologia"
+    },
+    {
+      "key":  "nosotros",
+      "name": "Nosotros",
+      "link": "/nosotros"
+    }
+  ]
+}
