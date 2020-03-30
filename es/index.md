@@ -36,8 +36,8 @@ página](https://github.com/covidsos/pages/blob/master/es/index.md). La
 
 Hemos creado una metodología que permite a todos
  colaborar mediante actividades específicas. La situación evoluciona
-  constantemente por lo que les pedimos se mantengan atentos a los anuncios
-   en este sitio. 
+  constantemente por lo que **les pedimos se mantengan atentos a los anuncios
+   en este sitio**. 
 
 </single-column>
 
