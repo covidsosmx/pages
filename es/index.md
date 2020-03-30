@@ -15,7 +15,7 @@ México y el mundo enfrentan una enorme **escasez de equipamiento médico** para
  
 COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
  Management System Global** que busca organizar la inteligencia colectiva y 
- apoyar a los profesionales médicos al frente de esta lucha.
+ apoyar a todo aquel al frente de esta lucha.
 
 Cualquier persona con una cuenta en [Github](https://github.com/) puede
  [registrarse](/connect) y ayudar.  
@@ -24,25 +24,26 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 
 </simple-hero>
 
-<text-banner>
 
-COVIDSOS es un repositorio open source construído para organizar y coordinar 
-los esfuerzos de las personas que desean contribuir con ayuda de múltiples
- maneras durante los efectos de la pandemia causada por el coronavirus.
- 
-</text-banner>
-
-
-<slim-column>
+<single-column>
 
 ## ¿Qué hay que hacer?
 
-</slim-column>
+Absolutamente todos pueden sugerir sobre todo, incluso el [código de esta 
+página](https://github.com/covidsos/pages/blob/master/es/index.md) es de
+ [dominio público]() y estamos siempre oyendo sugerencias.
+
+Encima de nuestra tecnología hemos creado una metodología que permite a todos
+ colaborar mediante actividades específicas. La situación evoluciona
+  constantemente por lo que les pedimos se mantengan atentos a los anuncios
+   en este sitio. 
+
+</single-column>
 
 
 
 
-<single-column>
+<card-holder>
 
 <simple-card>
 
@@ -50,9 +51,10 @@ los esfuerzos de las personas que desean contribuir con ayuda de múltiples
 
 ### Sugerir
 
-Identifica y sugiere instrucciones o planos
+Se necesitan personas que sepan identificar material de calidad y nos lo
+ sugieran para revisarlo.
 
-[Saber mas](/es/como-ayudar/sugerir)
+[Saber más](/es/como-ayudar/sugerir)
 
 </simple-card>
 
@@ -67,7 +69,74 @@ Identifica y sugiere instrucciones o planos
 
 ### Redactar
 
-Regístrate, genera contenido y envíalo a revisión
+Se requieren personas que conozcan markdown y tengan atención al detalle para
+ completar los planos.
+ 
+[Saber más](/es/como-ayudar/sugerir)
+
+</simple-card>
+
+
+
+
+
+
+
+<simple-card>
+
+![Revisar](../img/reviewing.svg)
+
+### Revisar
+
+Se necesitan expertos en muchísimas áreas para revisar los planos antes de
+ dar marcha a producción.
+
+[Saber más](/es/como-ayudar/sugerir)
+
+</simple-card>
+
+
+
+<simple-card>
+
+![Certificar](../img/certifying.svg)
+
+### Certificar
+
+Se requieren de instituciones que certifiquen que el equipamiento médico
+ cumple con los estándares mínimos.
+
+[Saber más](/es/como-ayudar/sugerir)
+
+</simple-card>
+
+
+
+
+<simple-card>
+
+![Construir](../img/making.svg)
+
+### Construir
+
+Se requieren makers que se mantengan preparados y estén listos para el
+ banderazo de salida.
+
+[Saber más](/es/como-ayudar/sugerir)
+
+</simple-card>
+
+
+
+<simple-card>
+
+![Traduciendo](../img/translating.svg)
+
+### Traducir
+
+...COVIDSOS soporta cualquier idioma del mundo...
+
+[Saber más](/es/como-ayudar/sugerir)
 
 </simple-card>
 
@@ -81,20 +150,9 @@ Regístrate, genera contenido y envíalo a revisión
 
 ### Preguntar
 
-Consulta el repositorio y colabora eligiendo las mejores entradas
+...Consulta el repositorio y colabora eligiendo las mejores entradas...
 
-</simple-card>
-
-
-
-
-<simple-card>
-
-![Revisando](../img/reviewing.svg)
-
-### Revisando
-
-Necesitamos de expertos que nos ayuden a identificar y corregir problemas antes de aprobarlos.
+[Saber más](/es/como-ayudar/sugerir)
 
 </simple-card>
 
@@ -102,37 +160,32 @@ Necesitamos de expertos que nos ayuden a identificar y corregir problemas antes 
 
 <simple-card>
 
-![Certificando](../img/certifying.svg)
+![Difundir](../img/promoting.svg)
 
-### Certificando
+### Difundir
 
-Requerimos de instituciones que certifiquen la efectividad del equipo a construir
+Cualquiera podrá clonar nuestro sitio, ponerle su diseño y publicarlo gratis
+ con las mejor CDN del mundo.
 
-</simple-card>
-
-
-
-
-<simple-card>
-
-![Traduciendo](../img/translating.svg)
-
-### Traduciendo
-
-COVIDSOS soporta cualquier idioma del mundo.
+**PRÓXIMAMENTE**
 
 </simple-card>
 
 
 
-<simple-card>
+</card-holder>
 
-![Sugiriendo](../img/making.svg)
 
-### Construyendo
 
-Se requieren makers que puedan construir los equipos y donarlos.
 
-</simple-card>
 
-</single-column>
+
+
+
+<text-banner>
+
+COVIDSOS es un repositorio open source construído para organizar y coordinar 
+los esfuerzos de las personas que desean contribuir con ayuda de múltiples
+ maneras durante los efectos de la pandemia causada por el coronavirus.
+ 
+</text-banner>
