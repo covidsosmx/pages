@@ -29,18 +29,17 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 
 ## ¿Qué hay que hacer?
 
-Absolutamente todos pueden sugerir sobre todo, incluso el [código de esta 
-página](https://github.com/covidsos/pages/blob/master/es/index.md) es de
- [dominio público]() y estamos siempre oyendo sugerencias.
+COVIDSOS  es de [dominio público](https://github.com/covidsos/covidsos/blob/master/LICENSE), incluso el [código de esta 
+página](https://github.com/covidsos/pages/blob/master/es/index.md). La
+ intención es que el conocimiento de todos sea organizado y utilizado por
+  todos. 
 
-Encima de nuestra tecnología hemos creado una metodología que permite a todos
+Hemos creado una metodología que permite a todos
  colaborar mediante actividades específicas. La situación evoluciona
   constantemente por lo que les pedimos se mantengan atentos a los anuncios
    en este sitio. 
 
 </single-column>
-
-
 
 
 <card-holder>
@@ -165,7 +164,7 @@ Se requieren makers que se mantengan preparados y estén listos para el
 ### Difundir
 
 Cualquiera podrá clonar nuestro sitio, ponerle su diseño y publicarlo gratis
- con las mejor CDN del mundo.
+ con las mejores CDNs del mundo.
 
 **PRÓXIMAMENTE**
 
