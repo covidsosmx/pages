@@ -16,8 +16,9 @@ México y el mundo enfrentan una enorme **escasez de equipamiento médico** para
 COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
  Management System Global** que busca organizar la inteligencia colectiva y 
  apoyar a los profesionales médicos al frente de esta lucha.
-  
-[Ver más](#como-ayudar)
+
+Cualquier persona con una cuenta en [Github](https://github.com/) puede
+ [registrarse](/connect) y ayudar.  
 
 </section>  
 
@@ -34,7 +35,7 @@ los esfuerzos de las personas que desean contribuir con ayuda de múltiples
 
 <slim-column>
 
-## Cómo ayudar
+## ¿Qué hay que hacer?
 
 </slim-column>
 
@@ -47,11 +48,11 @@ los esfuerzos de las personas que desean contribuir con ayuda de múltiples
 
 ![Sugiriendo](../img/suggesting.svg)
 
-### Sugiriendo
+### Sugerir
 
 Identifica y sugiere instrucciones o planos
 
-[Saber mas](/es/como-ayudar/sugiriendo)
+[Saber mas](/es/como-ayudar/sugerir)
 
 </simple-card>
 
@@ -62,9 +63,9 @@ Identifica y sugiere instrucciones o planos
 
 <simple-card>
 
-![Escribiendo](../img/writing.svg)
+![Redactar](../img/writing.svg)
 
-### Escribiendo
+### Redactar
 
 Regístrate, genera contenido y envíalo a revisión
 
@@ -76,9 +77,9 @@ Regístrate, genera contenido y envíalo a revisión
 
 <simple-card>
 
-![Colaborando](../img/collaborating.svg)
+![Preguntar](../img/collaborating.svg)
 
-### Colaborando
+### Preguntar
 
 Consulta el repositorio y colabora eligiendo las mejores entradas
 
