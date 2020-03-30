@@ -6,12 +6,20 @@ title: COVIDSOS
 
 ![El mundo requiere de tu ayuda](../img/world.png)
 
-# El mundo necesita tu ayuda
+<section class="message">
 
-México y el mundo enfrentan una enorme escasez de equipamiento médico para
- combatir la enfermedad COVID-19.
+# El mundo necesita nuestra ayuda
+
+México y el mundo enfrentan una enorme **escasez de equipamiento médico** para
+ combatir la pandemia COVID-19 causada por el coronavirus.
  
-[Ver más](#¿cómo-ayudar)
+COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
+ Management System Global** que busca organizar la inteligencia colectiva y 
+ apoyar a los profesionales médicos al frente de esta lucha.
+  
+[Ver más](#como-ayudar)
+
+</section>  
 
 </simple-hero>
 
@@ -26,13 +34,14 @@ los esfuerzos de las personas que desean contribuir con ayuda de múltiples
 
 <slim-column>
 
-## ¿Cómo ayudar?
+## Cómo ayudar
 
 </slim-column>
 
 
 
 
+<single-column>
 
 <simple-card>
 
@@ -41,6 +50,8 @@ los esfuerzos de las personas que desean contribuir con ayuda de múltiples
 ### Sugiriendo
 
 Identifica y sugiere instrucciones o planos
+
+[Saber mas](/es/como-ayudar/sugiriendo)
 
 </simple-card>
 
@@ -123,3 +134,4 @@ Se requieren makers que puedan construir los equipos y donarlos.
 
 </simple-card>
 
+</single-column>
