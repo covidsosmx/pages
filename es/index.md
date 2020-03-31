@@ -29,12 +29,7 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 
 <single-column>
 
-## ¿Qué hay que hacer?
-
-COVIDSOS  es de [dominio público](https://github.com/covidsos/covidsos/blob/master/LICENSE), incluso el [código de esta 
-página](https://github.com/covidsos/pages/blob/master/es/index.md). La
- intención es que el conocimiento de todos sea organizado y utilizado por
-  todos. 
+## ¿Cómo puedes ayudar?
 
 Hemos creado una metodología que permite a todos
  colaborar mediante actividades específicas. La situación evoluciona
@@ -50,12 +45,12 @@ Hemos creado una metodología que permite a todos
 
 ![Sugiriendo](../img/suggesting.svg)
 
-### Sugerir
+### Sugiere
 
-Se necesitan personas que sepan identificar material de calidad y nos lo
- sugieran para revisarlo.
+Sube contenido de calidad como manuales, planos, guías, etc., que ayude a la
+ creación de equipo médico.
 
-[Conocer más](/es/como-ayudar/sugerir)
+[Conocer más](/es/como-ayudar/sugiere)
 
 </simple-card>
 
@@ -68,12 +63,12 @@ Se necesitan personas que sepan identificar material de calidad y nos lo
 
 ![Redactar](../img/writing.svg)
 
-### Redactar
+### Redacta
 
-Se requieren personas que conozcan markdown y tengan atención al detalle para
- completar los planos.
+Si conoces markdown y tienes atención al detalle, corrobora
+ el contenido que se sube al repositorio.
  
-[Conocer más](/es/como-ayudar/redactar)
+[Conocer más](/es/como-ayudar/redacta)
 
 </simple-card>
 
@@ -87,12 +82,12 @@ Se requieren personas que conozcan markdown y tengan atención al detalle para
 
 ![Revisar](../img/reviewing.svg)
 
-### Revisar
+### Revisa
 
-Se necesitan expertos en muchísimas áreas para revisar los planos antes de
- dar marcha a producción.
+Si tu experiencia te permite validar el contenido y efectividad
+ del equipo, necesitamos expertos en muchísimas áreas.
 
-[Conocer más](/es/como-ayudar/revisar)
+[Conocer más](/es/como-ayudar/revisa)
 
 </simple-card>
 
@@ -102,12 +97,12 @@ Se necesitan expertos en muchísimas áreas para revisar los planos antes de
 
 ![Certificar](../img/certifying.svg)
 
-### Certificar
+### Certifica
 
-Se requieren de instituciones que certifiquen que el equipamiento médico
+Si perteneces a una institución reconocida certifica que el equipamiento médico
  cumple con los estándares mínimos.
 
-[Conocer más](/es/como-ayudar/certificar)
+[Conocer más](/es/como-ayudar/certifica)
 
 </simple-card>
 
@@ -118,12 +113,12 @@ Se requieren de instituciones que certifiquen que el equipamiento médico
 
 ![Construir](../img/making.svg)
 
-### Construir
+### Construye
 
-Se requieren makers que se mantengan preparados y estén listos para el
- banderazo de salida.
+Si eres un maker utiliza nuestro repositorio para crear los equipos médicos 
+ validados y certificados.
 
-[Saber más](/es/como-ayudar/construir)
+[Saber más](/es/como-ayudar/construye)
 
 </simple-card>
 
@@ -132,11 +127,12 @@ Se requieren makers que se mantengan preparados y estén listos para el
 
 ![Preguntar](../img/collaborating.svg)
 
-### Preguntar
+### Cuestiona
 
-...Consulta el repositorio y colabora eligiendo las mejores entradas...
+Conoces un equipo, material, herramienta u otro y crees que el contenido 
+ debe mejorar, colabora con tus comentarios.
 
-[Saber más](/es/como-ayudar/preguntar)
+[Saber más](/es/como-ayudar/cuestiona)
 
 </simple-card>
 
@@ -145,11 +141,12 @@ Se requieren makers que se mantengan preparados y estén listos para el
 
 ![Traduciendo](../img/translating.svg)
 
-### Traducir
+### Traduce
 
-...COVIDSOS soporta cualquier idioma del mundo...
+COVIDSOS soporta cualquier idioma, ayúdanos a que éste conocimiento
+ llegue a la mayor cantidad de personas posible.
 
-[Saber más](/es/como-ayudar/traducir)
+[Saber más](/es/como-ayudar/traduce)
 
 </simple-card>
 
@@ -163,7 +160,7 @@ Se requieren makers que se mantengan preparados y estén listos para el
 
 ![Difundir](../img/promoting.svg)
 
-### Difundir
+### Difunde
 
 Cualquiera podrá clonar nuestro sitio, ponerle su diseño y publicarlo gratis
  con las mejores CDNs del mundo.
