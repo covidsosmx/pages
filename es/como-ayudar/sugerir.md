@@ -2,7 +2,7 @@
 layout: ~/flare/components/columns/SingleColumn
 ---
 
-# Sugerir
+# Sugiere
 
 Comparte toda la información necesaria para construir un equipo médico 
  que ayude a combatir la enfermedad COVID-19. Te pedimos apegarte a 
