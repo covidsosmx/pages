@@ -19,7 +19,7 @@ COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
 
 <covidsos-button>
 
-[Ver repositorio](es/repositorio)
+[Ver repositorio](/es/repositorio/)
 
 </covidsos-button>
 
@@ -97,7 +97,7 @@ Si conoces markdown y tienes atención al detalle, corrobora
 Si tu experiencia te permite validar el contenido y efectividad
  del equipo, necesitamos expertos en muchísimas áreas.
 
-[Conocer más](es/como-ayudar/revisa)
+[Conocer más](../es/como-ayudar/revisa)
 
 </simple-card>
 
@@ -115,7 +115,7 @@ Si tu experiencia te permite validar el contenido y efectividad
 Si perteneces a una institución reconocida certifica que el equipamiento médico
  cumple con los estándares mínimos.
 
-[Conocer más](./es/como-ayudar/certifica)
+[Conocer más](./es/como-ayudar/certifica/)
 
 </simple-card>
 
@@ -133,7 +133,7 @@ Si perteneces a una institución reconocida certifica que el equipamiento médic
 Si eres un maker utiliza nuestro repositorio para crear los equipos médicos 
  validados y certificados.
 
-[Conocer más](./es/como-ayudar/construye)
+[Conocer más](/es/como-ayudar/construye)
 
 </simple-card>
 
@@ -152,7 +152,7 @@ Si eres un maker utiliza nuestro repositorio para crear los equipos médicos
 Conoces un equipo, material, herramienta u otro y crees que el contenido 
  debe mejorar, colabora con tus comentarios.
 
-[Conocer más](./es/como-ayudar/cuestiona)
+[Conocer más](como-ayudar/cuestiona/)
 
 </simple-card>
 
