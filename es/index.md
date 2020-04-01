@@ -19,7 +19,7 @@ COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
 
 <covidsos-button>
 
-[Ver repositorio](./es/repositorio)
+[Ver repositorio](es/repositorio)
 
 </covidsos-button>
 
@@ -60,7 +60,7 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 Sube contenido de calidad como manuales, planos, guías, etc., que ayude a la
  creación de equipo médico.
 
-[Conocer más](./es/como-ayudar/sugiere)
+[Conocer más](es/como-ayudar/sugiere)
 
 </simple-card>
 
@@ -97,7 +97,7 @@ Si conoces markdown y tienes atención al detalle, corrobora
 Si tu experiencia te permite validar el contenido y efectividad
  del equipo, necesitamos expertos en muchísimas áreas.
 
-[Conocer más](./es/como-ayudar/revisa)
+[Conocer más](es/como-ayudar/revisa)
 
 </simple-card>
 
