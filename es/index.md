@@ -60,7 +60,7 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 Sube contenido de calidad como manuales, planos, guías, etc., que ayude a la
  creación de equipo médico.
 
-[Conocer más](es/como-ayudar/sugiere)
+[Conocer más](/es/ayuda/sugiere/)
 
 </simple-card>
 
@@ -78,7 +78,7 @@ Sube contenido de calidad como manuales, planos, guías, etc., que ayude a la
 Si conoces markdown y tienes atención al detalle, corrobora
  el contenido que se sube al repositorio.
  
-[Conocer más](./es/como-ayudar/redacta)
+[Conocer más](/es/ayuda/redacta/)
 
 </simple-card>
 
@@ -97,7 +97,7 @@ Si conoces markdown y tienes atención al detalle, corrobora
 Si tu experiencia te permite validar el contenido y efectividad
  del equipo, necesitamos expertos en muchísimas áreas.
 
-[Conocer más](../es/como-ayudar/revisa)
+[Conocer más](/es/ayuda/revisa/)
 
 </simple-card>
 
@@ -115,7 +115,7 @@ Si tu experiencia te permite validar el contenido y efectividad
 Si perteneces a una institución reconocida certifica que el equipamiento médico
  cumple con los estándares mínimos.
 
-[Conocer más](./es/como-ayudar/certifica/)
+[Conocer más](/es/ayuda/certifica/)
 
 </simple-card>
 
@@ -133,7 +133,7 @@ Si perteneces a una institución reconocida certifica que el equipamiento médic
 Si eres un maker utiliza nuestro repositorio para crear los equipos médicos 
  validados y certificados.
 
-[Conocer más](/es/como-ayudar/construye)
+[Conocer más](/es/ayuda/construye/)
 
 </simple-card>
 
@@ -152,7 +152,7 @@ Si eres un maker utiliza nuestro repositorio para crear los equipos médicos
 Conoces un equipo, material, herramienta u otro y crees que el contenido 
  debe mejorar, colabora con tus comentarios.
 
-[Conocer más](como-ayudar/cuestiona/)
+[Conocer más](/es/ayuda/cuestiona/)
 
 </simple-card>
 
@@ -170,7 +170,7 @@ Conoces un equipo, material, herramienta u otro y crees que el contenido
 COVIDSOS soporta cualquier idioma, ayúdanos a que éste conocimiento
  llegue a la mayor cantidad de personas posible.
 
-[Conocer más](./es/como-ayudar/traduce)
+[Conocer más](/es/ayuda/traduce/)
 
 </simple-card>
 
