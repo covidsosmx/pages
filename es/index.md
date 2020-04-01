@@ -19,7 +19,7 @@ COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
 
 <covidsos-button>
 
-[Ver repositorio](./equipment)
+[Ver repositorio](./es/repositorio)
 
 </covidsos-button>
 
@@ -33,17 +33,21 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 
 <single-column>
 
-## ¿Cómo puedes ayudar?
+## Ayuda
 
-Hemos creado una metodología que permite a todos
- colaborar mediante actividades específicas. La situación evoluciona
-  constantemente por lo que **les pedimos se mantengan atentos a los anuncios
-   en este sitio**. 
+**Las circunstancias evolucionan constantemente por lo que es importante
+  mantenerse atento a los anuncios en este sitio**. 
+  
+  Hemos creado una metodología que permite a todos
+ colaborar mediante actividades específicas para distintos niveles técnicos o
+  conocimiento.
 
 </single-column>
 
 
 <card-holder>
+
+
 
 <simple-card>
 
@@ -176,18 +180,3 @@ Cualquiera podrá clonar nuestro sitio, ponerle su diseño y publicarlo gratis
 
 
 </card-holder>
-
-
-
-
-
-
-
-
-<text-banner>
-
-COVIDSOS es un repositorio open source construído para organizar y coordinar 
-los esfuerzos de las personas que desean contribuir con ayuda de múltiples
- maneras durante los efectos de la pandemia causada por el coronavirus.
- 
-</text-banner>
