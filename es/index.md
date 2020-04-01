@@ -49,6 +49,8 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 
 
 
+
+
 <simple-card>
 
 ![Sugiriendo](../img/suggesting.svg)
@@ -58,7 +60,7 @@ Cualquier persona con una cuenta en [Github](https://github.com/) puede
 Sube contenido de calidad como manuales, planos, guías, etc., que ayude a la
  creación de equipo médico.
 
-[Conocer más](/es/como-ayudar/sugiere)
+[Conocer más](./es/como-ayudar/sugiere)
 
 </simple-card>
 
@@ -76,7 +78,7 @@ Sube contenido de calidad como manuales, planos, guías, etc., que ayude a la
 Si conoces markdown y tienes atención al detalle, corrobora
  el contenido que se sube al repositorio.
  
-[Conocer más](/es/como-ayudar/redacta)
+[Conocer más](./es/como-ayudar/redacta)
 
 </simple-card>
 
@@ -95,9 +97,12 @@ Si conoces markdown y tienes atención al detalle, corrobora
 Si tu experiencia te permite validar el contenido y efectividad
  del equipo, necesitamos expertos en muchísimas áreas.
 
-[Conocer más](/es/como-ayudar/revisa)
+[Conocer más](./es/como-ayudar/revisa)
 
 </simple-card>
+
+
+
 
 
 
@@ -110,9 +115,11 @@ Si tu experiencia te permite validar el contenido y efectividad
 Si perteneces a una institución reconocida certifica que el equipamiento médico
  cumple con los estándares mínimos.
 
-[Conocer más](/es/como-ayudar/certifica)
+[Conocer más](./es/como-ayudar/certifica)
 
 </simple-card>
+
+
 
 
 
@@ -126,9 +133,14 @@ Si perteneces a una institución reconocida certifica que el equipamiento médic
 Si eres un maker utiliza nuestro repositorio para crear los equipos médicos 
  validados y certificados.
 
-[Saber más](/es/como-ayudar/construye)
+[Conocer más](./es/como-ayudar/construye)
 
 </simple-card>
+
+
+
+
+
 
 
 <simple-card>
@@ -140,9 +152,13 @@ Si eres un maker utiliza nuestro repositorio para crear los equipos médicos
 Conoces un equipo, material, herramienta u otro y crees que el contenido 
  debe mejorar, colabora con tus comentarios.
 
-[Saber más](/es/como-ayudar/cuestiona)
+[Conocer más](./es/como-ayudar/cuestiona)
 
 </simple-card>
+
+
+
+
 
 
 <simple-card>
@@ -154,9 +170,12 @@ Conoces un equipo, material, herramienta u otro y crees que el contenido
 COVIDSOS soporta cualquier idioma, ayúdanos a que éste conocimiento
  llegue a la mayor cantidad de personas posible.
 
-[Saber más](/es/como-ayudar/traduce)
+[Conocer más](./es/como-ayudar/traduce)
 
 </simple-card>
+
+
+
 
 
 
@@ -176,6 +195,10 @@ Cualquiera podrá clonar nuestro sitio, ponerle su diseño y publicarlo gratis
 **PRÓXIMAMENTE**
 
 </simple-card>
+
+
+
+
 
 
 
