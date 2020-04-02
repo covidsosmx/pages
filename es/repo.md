@@ -1,5 +1,5 @@
 ---
-layout: ~/flare/components/columns/SingleColumn
+layout: ~/layouts/SingleColumnPage
 ---
 
 # Repositorio

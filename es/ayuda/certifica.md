@@ -1,7 +1,6 @@
 ---
-layout: ~/flare/components/columns/SingleColumn
+layout: ~/layouts/SingleColumnPage
 ---
-
 # Certifica
 
 Se requieren de instituciones que certifiquen que el equipamiento médico

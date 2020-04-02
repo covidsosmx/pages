@@ -1,5 +1,6 @@
 ---
 title: COVIDSOS
+layout: ~/layouts/DefaultPage
 ---
 
 <simple-hero>
