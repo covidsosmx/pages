@@ -8,12 +8,12 @@
     {
       "key":  "repositorio",
       "name": "Repositorio",
-      "link": "/es/repositorio"
+      "link": "/es/repo/"
     },
     {
       "key":  "nosotros",
       "name": "Nosotros",
-      "link": "/about"
+      "link": "/about/"
     }
   ]
 }

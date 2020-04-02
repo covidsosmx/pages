@@ -19,7 +19,7 @@ COVIDSOS es un **Repositorio Abierto** y un **<strike>Content</strike> Help
 
 <covidsos-button>
 
-[Ver repositorio](/es/repositorio/)
+[Ver repositorio](/es/repo/)
 
 </covidsos-button>
 
