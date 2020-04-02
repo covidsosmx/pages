@@ -1,5 +1,5 @@
 ---
-layout: ~/layouts/SingleColumnPage
+layout: ~/layouts/pages/SingleColumnPage
 ---
 
 # Repositorio
