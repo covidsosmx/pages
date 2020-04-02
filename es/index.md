@@ -94,8 +94,8 @@ Si conoces markdown y tienes atención al detalle, corrobora
 
 ### Revisa
 
-Si tu experiencia te permite validar el contenido y efectividad
- del equipo, necesitamos expertos en muchísimas áreas.
+Si tu experiencia te permite validar el contenido en el repositorio, necesitamos
+ expertos en muchas áreas.
 
 [Conocer más](/es/ayuda/revisa/)
 
@@ -112,8 +112,8 @@ Si tu experiencia te permite validar el contenido y efectividad
 
 ### Certifica
 
-Si perteneces a una institución reconocida certifica que el equipamiento médico
- cumple con los estándares mínimos.
+Si perteneces a una institución certifica que el equipamiento 
+ cumple con las especificaciones mínimas.
 
 [Conocer más](/es/ayuda/certifica/)
 

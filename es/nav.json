@@ -2,8 +2,8 @@
   "main": [
     {
       "key":  "como-ayudar",
-      "name": "¿Cómo ayudar?",
-      "link": "/es"
+      "name": "Ayuda",
+      "link": "/es/#ayuda"
     },
     {
       "key":  "repositorio",
