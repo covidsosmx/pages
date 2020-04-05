@@ -10,14 +10,18 @@ Si conoces markdown, tienes atención al detalle y tienes experiencia en
 ## Guía para redactar
 
 1. Ingresa a [COVIDSOS](https://github.com/covidsos/pages)
-![Fork](./images/fork.png)
+
+![Fork](./img/fork.png)
 
 2. Revisa, edita y guarda.
-![Commit](./images/commit_changes.png)
+
+![Commit](./img/commit.png)
 
 3. Regresa a tu fork.
  y crea un pull request.
-![NewPR](./images/new_pr.png)
+ 
+![NewPR](./img/new_pr.png)
 
 4. Revisa por última vez y confirma.
-![CreatePR](./images/create_pr2.png)
+
+![CreatePR](./img/create_pr.png)
