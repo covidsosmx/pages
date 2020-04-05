@@ -12,7 +12,7 @@ Si conoces markdown, tienes atención al detalle y tienes experiencia en
 1. Ingresa a [COVIDSOS](https://github.com/covidsos/pages)
 ![Fork](./images/fork.png)
 
-2.Revisa, edita y guarda.
+2. Revisa, edita y guarda.
 ![Commit](./images/commit_changes.png)
 
 3. Regresa a tu fork.
