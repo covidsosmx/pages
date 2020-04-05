@@ -2,7 +2,7 @@
 layout: ~/flare/components/columns/SingleColumn
 ---
 
-# Revisar
+# Revisa
 
 Se requieren personas con el conocimiento y la energía para revisar
  y filtrar las entradas y correcciones hechas por personas del mundo 
