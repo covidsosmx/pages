@@ -13,4 +13,6 @@ Comparte toda la información necesaria para construir un equipo médico
 - Incluye referencias en caso de haberlas.
 - Procura incluir imágenes y/o videos de apoyo.
 
+Completa los siguientes datos:
+
 <suggestion-form></suggestion-form>
