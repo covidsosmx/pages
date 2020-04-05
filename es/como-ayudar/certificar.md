@@ -2,7 +2,7 @@
 layout: ~/flare/components/columns/SingleColumn
 ---
 
-# Certificar
+# Certifica
 
 Se requieren de instituciones que certifiquen que el equipamiento médico
  cumple con las especificaciones y calidad necesaria para proteger a todas
