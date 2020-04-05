@@ -5,7 +5,7 @@ layout: ~/flare/components/columns/SingleColumn
 # Redacta
 Si conoces markdown, tienes atención al detalle y tienes experiencia en
  el uso de github, envíanos un correo a hola@covidsos.mx, cuéntanos de tu
-  experiencia y no olvides agregar tu usuario de github.
+  experiencia y no olvides proporcionarnos tu usuario de github.
 
 ## Guía para redactar
 
