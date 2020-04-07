@@ -2,12 +2,12 @@
 layout: ~/flare/components/columns/SingleColumn
 ---
 
-# Certificar
+# Certifica
 
 Se requieren de instituciones que certifiquen que el equipamiento médico
- cumple con los estándares mínimos.
+ cumple con las especificaciones y calidad necesaria para proteger a todas
+  las personas que en la lucha directa o indirecta contra ésta pandemia se
+    encuentran expuestas.
  
-Contáctanos a [hola@covidsos.mx](mailto:hola@covidsos.mx) para postular tu
- institución para esta
- vital
- tarea.
+Contáctanos en [hola@covidsos.mx](mailto:hola@covidsos.mx) para postular a tu
+ institución en esta vital tarea.
